@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm @Khalid-Atyatllah</h1>
 <h3 align="center">A passionate Data Analyst from Morocco</h3>
-<div align="center">
-  <img height="150" src="https://marketbusinessnews.com/wp-content/uploads/2020/10/1-Predictive-Analytics-GIF-for-article.gif"  />
-</div>
 
 - 🔭 I’m currently working as a Data analyst **confidential**
 
