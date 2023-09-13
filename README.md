@@ -1,8 +1,10 @@
+<img src="ip681.jpg" alt="Analyst">
+
+
+<table style="border-collapse: collapse; border: none;">
+     <tr>
 <h1 align="center">Hi 👋, I'm @Khalid-Atyatllah</h1>
 <h3 align="center">A passionate Data Analyst from Morocco</h3>
-<div align="center">
-  <img height=250" src="https://marketbusinessnews.com/wp-content/uploads/2020/10/1-Predictive-Analytics-GIF-for-article.gif"  />
-</div>
 
 - 🔭 I’m currently working as a Data analyst **confidential**
 
@@ -38,3 +40,7 @@
         <img src="https://th.bing.com/th/id/OIP.Nk3ZWXojx5DmmWk8TlBU5AHaHa?pid=ImgDet&w=512&h=512&rs=1" alt="beautifulsoup" width="40" height="40"/>
     </a>
 </p>
+        <img src="analyst.gif" alt="Analyst">
+        </td>
+    </tr>
+</table>
