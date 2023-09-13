@@ -32,7 +32,7 @@
         <img src="https://th.bing.com/th/id/R.7dbaafc15f13ba1e82d2db9244f9608d?rik=Df03phQd1GGhkA&riu=http%3a%2f%2fskmkuma.com%2fwp-content%2fuploads%2f2021%2f06%2fnumpy_logo-1.png&ehk=%2f8Vr1YopTMDBR87mawbf0xSCyKwmW65hBlvqcVSh9Hs%3d&risl=&pid=ImgRaw&r=0" alt="numpy" width="40" height="40"/>
     </a>
     <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-        <img src="https://www.bing.com/images/search?view=detailV2&insightstoken=bcid_qFuvnlyRihIGSg*ccid_W6%2BeXJGK&form=ANCMS1&iss=SBIUPLOADGET&selectedindex=0&id=1619447418&ccid=W6%2BeXJGK&exph=495&expw=474&vt=2&sim=11" alt="excel" width="40" height="40"/>
+        <img src="https://th.bing.com/th/id/R.559435c480d023a9be17057740dac53c?rik=jXfpT8zHdi8NqA&riu=http%3a%2f%2ftous-logos.com%2fwp-content%2fuploads%2f2017%2f10%2fLogo-Excel.jpg&ehk=xEeJ73i514kASKCz44T3MbLLVe1HDnI3qKOk5biBovo%3d&risl=&pid=ImgRaw&r=0" alt="excel" width="40" height="40"/>
     </a>
     <a href="https://beautiful-soup-4.readthedocs.io/en/latest/" target="_blank" rel="noreferrer">
         <img src="https://th.bing.com/th/id/OIP.Nk3ZWXojx5DmmWk8TlBU5AHaHa?pid=ImgDet&w=512&h=512&rs=1" alt="beautifulsoup" width="40" height="40"/>
