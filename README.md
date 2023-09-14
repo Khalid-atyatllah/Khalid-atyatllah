@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm @Khalid-Atyatllah</h1>
 <h3 align="center">A passionate Data Analyst from Morocco</h3>
 
-- 🔭 I’m currently working as a Data analyst **"confidential"**
+- 🔭 I’m currently working as a Data analyst.
 
-- 🌱 I’m currently learning **Automation and webscrap**
+- 🌱 I’m currently learning **Automation and webscrap**.
 
-- 💬 Ask me about **python , analytics**
+- 💬 Ask me about **python , analytics**.
 
-- 📫 How to reach me **katyatllah@gmail.com**
+- 📫 How to reach me **katyatllah@gmail.com**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
