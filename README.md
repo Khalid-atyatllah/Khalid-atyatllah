@@ -12,7 +12,7 @@
                     <li>📫 How to reach me <strong>katyatllah@gmail.com</strong>.</li>
                 </ul>            </td>
             <td>
-                <img src="https://raw.githubusercontent.com/ip681/ip681/main/analyst.gif" alt="Analyst" width="150" height="150">
+                <img src="https://raw.githubusercontent.com/ip681/ip681/main/analyst.gif" alt="Analyst" width="300" height="150">
             </td>
         </tr>
     </table>
