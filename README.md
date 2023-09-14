@@ -1,14 +1,22 @@
 <h1 align="center">Hi 👋, I'm @Khalid-Atyatllah</h1>
 <h3 align="center">A passionate Data Analyst from Morocco</h3>
 
-- 🔭 I’m currently working as a Data analyst.
-
-- 🌱 I’m currently learning **Automation and webscrap**.
-
-- 💬 Ask me about **python , analytics**.
-
-- 📫 How to reach me **katyatllah@gmail.com**.
-
+<body>
+    <table style="border-collapse: collapse; border: none; width: 100%;">
+        <tr>
+            <td style="overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">
+                <ul>
+                    <li>🔭 I’m currently working as a Data analyst.</li>
+                    <li>🌱 I’m currently learning <strong>Automation and webscrap</strong>.</li>
+                    <li>💬 Ask me about <strong>python , analytics</strong>.</li>
+                    <li>📫 How to reach me <strong>katyatllah@gmail.com</strong>.</li>
+                </ul>            </td>
+            <td>
+                <img src="https://raw.githubusercontent.com/ip681/ip681/main/analyst.gif" alt="Analyst" width="150" height="150">
+            </td>
+        </tr>
+    </table>
+</body>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/atyatllah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atyatllah" height="30" width="40" /></a>
