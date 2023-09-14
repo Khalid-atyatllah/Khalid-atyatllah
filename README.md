@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm @Khalid-Atyatllah</h1>
 <h3 align="center">A passionate Data Analyst from Morocco</h3>
 
-- 🔭 I’m currently working as a Data analyst **confidential**
+- 🔭 I’m currently working as a Data analyst **"confidential"**
 
 - 🌱 I’m currently learning **Automation and webscrap**
 
