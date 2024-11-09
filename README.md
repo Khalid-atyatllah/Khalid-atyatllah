@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm @Khalid-Atyatllah</h1>
-<h3 align="center">A passionate Data Analyst from Morocco</h3>
+<h3 align="center">A passionate Data Scientist from Morocco</h3>
 
 <body>
     <table style="border-collapse: collapse; border: none; width: 100%;">
