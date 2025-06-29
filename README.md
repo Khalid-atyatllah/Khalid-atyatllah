@@ -7,8 +7,8 @@
             <td style="overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">
                 <ul>
                     <li>🔭 I’m currently working as a <strong>QA Automation Tester<strong>.</li>
-                    <li>🌱 I’m currently learning <strong>Automation and webscrap</strong>.</li>
-                    <li>💬 Ask me about <strong>python , analytics</strong>.</li>
+<!--                     <li>🌱 I’m currently learning <strong>Automation and webscrap</strong>.</li> -->
+                    <li>💬 Ask me about <strong>QA , PYTHON/JS</strong>.</li>
                     <li>📫 How to reach me <strong>khalid.atyatllah@gmail.com</strong>.</li>
                 </ul>            </td>
             <td>
